@@ -1,8 +1,3 @@
-# React + Vite
+Personal Assistant Web application powered by Open Ai's ChatGPT 3.5 Turbo API.
+If you want to switch to GPT 4 please use your own API Key Thanks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
